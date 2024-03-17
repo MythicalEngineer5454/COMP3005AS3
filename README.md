@@ -1,5 +1,4 @@
-Name:Mingkang Zhou
-ID:101236790
+
 
 1.In the browser panel on the left, right-click on Databases and select Create > Database.
 
