@@ -1,5 +1,5 @@
 
-
+Video:https://youtu.be/1hNS9VtTq28
 1.download Q1.sql and Q1Test.sql from github.
 2.Open pg admin 4. In the browser panel on the left, right-click on Databases and select Create > Database.
 
